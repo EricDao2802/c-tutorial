@@ -26,7 +26,7 @@ int checkPadlindrom(char *str)
 	int res = !strcmp(str, rev);
 	return res;
 }
-
+//mi check lai cau 3 nha 
 double arthSeq(double e)
 {
 	int i, sign = 1;
